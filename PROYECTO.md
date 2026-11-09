@@ -78,7 +78,8 @@ Etapa 0 Benvinguda → 1 Conèixer el projecte (demandas) → 2 Què ens cal? (r
 
 | Tema | Decisión |
 |---|---|
-| **Idea** | Cuenta de análisis de música urbana: explicar barras de cantantes, lo artístico de las canciones y reaccionar a temas que envían los seguidores |
+| **Idea** | Cuenta de análisis de **letras de música urbana** (no centrada en un artista: Hoke, Delaossa, Hard GZ…): rimas multisilábicas, dobles sentidos, jerga que la gente no entiende. Más reacciones con feedback a **artistas emergentes** que envían su tema |
+| **Storytelling** | Bucle de 4 pasos en cada vídeo: apuestas → gran pregunta → giro → reenganche. Plantillas: `06-produccion/guiones/plantillas-bucle.md` |
 | **Cuenta** | **Nueva**, creada para el proyecto (no Santo Kenvo) |
 | **Plataformas** | **TikTok + Instagram Reels**, mismo vídeo vertical en las dos |
 | **Tipo de cuenta** | Personal o de creador, **no de empresa** (ver apartado legal) |
