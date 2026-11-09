@@ -1,4 +1,4 @@
-brutos/*
-!brutos/.gitkeep
-editados/*
-!editados/.gitkeep
+06-produccion/brutos/*
+!06-produccion/brutos/.gitkeep
+06-produccion/editados/*
+!06-produccion/editados/.gitkeep

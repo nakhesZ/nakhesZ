@@ -131,7 +131,7 @@ Etapa 0 Benvinguda → 1 Conèixer el projecte (demandas) → 2 Què ens cal? (r
 ## 6. Edición de vídeo
 
 - **Reparto:** yo grabo, Claude edita.
-- **Kit elegido:** [herk-edit-kit](https://github.com/nateherkai/herk-edit-kit) (2.680 ★ a 9 nov 2026). 15 skills para Claude Code, entre ellas `edit-video`, `short-form-edit` (reels 9:16 con gancho, subtítulos, B-roll y sonido), `cut-silences` y `cut-mistakes`. Funciona en local sin APIs de pago.
+- **Kit elegido:** [herk-edit-kit](https://github.com/nateherkai/herk-edit-kit) (2.680 ★ a 9 nov 2026). 15 skills para Claude Code, entre ellas `edit-video`, `short-form-edit` (reels 9:16 con gancho, subtítulos, B-roll y sonido), `cut-silences` y `cut-mistakes`. Funciona en local, pero su script de transcripción usa ElevenLabs (de pago): para no pagar, usar Whisper local (faster-whisper). Guía completa: `edicion/INSTALACION.md`.
 - **Complemento:** [HyperFrames](https://github.com/heygen-com/hyperframes) (81.492 ★ a 9 nov 2026, Apache-2.0, gratis) para motion graphics y subtítulos animados (ideal para "Barra explicada").
 - **Herramientas verificadas** (estrellas consultadas en la API de GitHub el 9 nov 2026; README y licencias leídos; **no probadas todavía**):
 
@@ -166,15 +166,18 @@ Etapa 0 Benvinguda → 1 Conèixer el projecte (demandas) → 2 Què ens cal? (r
 - **Ojo:** el portátil actual es **de Tattoox (asignado para las prácticas)**. Antes de instalar nada ahí, **preguntar a Marc**, o instalarlo en el ordenador personal.
 - **No se edita nada hasta el 25 de enero de 2027.**
 
-### Estructura de carpetas sugerida
+### Estructura de carpetas (creada el 9 nov 2026)
 ```
-proyecto-cax/
-├── PROYECTO.md          ← este archivo
-├── estrategia/          ← presentación, SMART, público, plan de crisis
-├── calendario/          ← hoja de cálculo de los 21 vídeos
-├── legal/               ← bases y autorizaciones de los seguidores
-├── brutos/              ← vídeos grabados sin editar
-└── editados/            ← vídeos finales 9:16
+00-enunciado/              ← enunciado completo
+01-validacion-idea/        ← decisiones y preguntas para el 13/11
+02-estrategia/             ← los 7 puntos + protección de datos
+03-calendario/             ← hoja de cálculo de los vídeos (+ KPI)
+04-legal/                  ← autorización de seguidores, derechos, menores
+05-presentacion/           ← guion de las 10 diapositivas y PDF final
+06-produccion/             ← guiones/, brutos/, editados/ (vídeos fuera de git)
+07-kpi/                    ← análisis semanal (RA3)
+08-diario-autoevaluacion/  ← diari d'autoavaluació
+edicion/                   ← instalación de las skills y órdenes por sección
 ```
 
 ---
