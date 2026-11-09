@@ -132,7 +132,21 @@ Etapa 0 Benvinguda → 1 Conèixer el projecte (demandas) → 2 Què ens cal? (r
 
 - **Reparto:** yo grabo, Claude edita.
 - **Kit elegido:** [herk-edit-kit](https://github.com/nateherkai/herk-edit-kit) (2.680 ★ a 9 nov 2026). 15 skills para Claude Code, entre ellas `edit-video`, `short-form-edit` (reels 9:16 con gancho, subtítulos, B-roll y sonido), `cut-silences` y `cut-mistakes`. Funciona en local sin APIs de pago.
-- **Complemento:** [HyperFrames](https://github.com/heygen-com/hyperframes) (81.486 ★, Apache-2.0, gratis) para motion graphics y subtítulos animados (ideal para "Barra explicada").
+- **Complemento:** [HyperFrames](https://github.com/heygen-com/hyperframes) (81.492 ★ a 9 nov 2026, Apache-2.0, gratis) para motion graphics y subtítulos animados (ideal para "Barra explicada").
+- **Herramientas verificadas** (estrellas consultadas en la API de GitHub el 9 nov 2026; README y licencias leídos; **no probadas todavía**):
+
+  | Para qué | Repo | ★ | Licencia |
+  |---|---|---|---|
+  | Editar reels (cortes, subtítulos, B-roll, sonido) | [nateherkai/herk-edit-kit](https://github.com/nateherkai/herk-edit-kit) | 2.680 | propia |
+  | Utilidades FFmpeg (subtítulos karaoke, recorte 9:16, silencios, volumen) | [kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) | 4.870 | MIT |
+  | Cortar silencios | [WyattBlue/auto-editor](https://github.com/WyattBlue/auto-editor) | 5.822 | Unlicense |
+  | Animaciones y texto animado (HTML → vídeo) | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 81.492 | Apache-2.0 |
+  | Animaciones con React | [remotion-dev/remotion](https://github.com/remotion-dev/remotion) + [skills](https://github.com/remotion-dev/skills) | 71.936 / 6.676 | gratis para particulares |
+  | Pulir motion graphics | [Tejashmakwana/motionmaxxing](https://github.com/Tejashmakwana/motionmaxxing) | 1.480 | Apache-2.0 (versión temprana) |
+  | Transcribir con tiempo por palabra (subtítulos sincronizados) | [m-bain/whisperX](https://github.com/m-bain/whisperX) | 25.168 | BSD-2 |
+  | Recortar brutos a mano, sin recomprimir | [mifi/lossless-cut](https://github.com/mifi/lossless-cut) | 45.860 | GPL-2.0 |
+  | Que Claude "vea" el vídeo para revisarlo | [jordanrendric/claude-video-vision](https://github.com/jordanrendric/claude-video-vision) | 1.478 | MIT |
+  | Directorio de 180 repos con nota de seguridad | [zhuyansen/awesome-claude-video-skills](https://github.com/zhuyansen/awesome-claude-video-skills) | 1.811 | — |
 - **Requisitos:** Node.js 22+, Git, FFmpeg (con ffprobe), Chrome o Chromium.
 - **Instalación (Windows, PowerShell):**
   ```powershell
