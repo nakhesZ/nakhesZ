@@ -132,7 +132,7 @@ Etapa 0 Benvinguda → 1 Conèixer el projecte (demandas) → 2 Què ens cal? (r
 ## 6. Edición de vídeo
 
 - **Reparto:** yo grabo, Claude edita.
-- **Kit elegido:** [herk-edit-kit](https://github.com/nateherkai/herk-edit-kit) (2.680 ★ a 9 nov 2026). 15 skills para Claude Code, entre ellas `edit-video`, `short-form-edit` (reels 9:16 con gancho, subtítulos, B-roll y sonido), `cut-silences` y `cut-mistakes`. Funciona en local, pero su script de transcripción usa ElevenLabs (de pago): para no pagar, usar Whisper local (faster-whisper). Guía completa: `edicion/INSTALACION.md`.
+- **Kit elegido:** [herk-edit-kit](https://github.com/nateherkai/herk-edit-kit) (2.680 ★ a 9 nov 2026). 15 skills para Claude Code, entre ellas `edit-video`, `short-form-edit` (reels 9:16 con gancho, subtítulos, B-roll y sonido), `cut-silences` y `cut-mistakes`. Funciona en local, pero su script de transcripción usa ElevenLabs (de pago): para no pagar, transcribir en local con el **filtro `whisper` de FFmpeg** (faster-whisper no funciona en el portátil de Tattoox: lo bloquea Smart App Control, que no se toca). Instalado y probado el 11/11/2026. Guía completa: `edicion/INSTALACION.md`.
 - **Complemento:** [HyperFrames](https://github.com/heygen-com/hyperframes) (81.492 ★ a 9 nov 2026, Apache-2.0, gratis) para motion graphics y subtítulos animados (ideal para "Barra explicada").
 - **Herramientas verificadas** (estrellas consultadas en la API de GitHub el 9 nov 2026; README y licencias leídos; **no probadas todavía**):
 
