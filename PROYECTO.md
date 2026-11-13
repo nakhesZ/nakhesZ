@@ -79,6 +79,8 @@ Etapa 0 Benvinguda → 1 Conèixer el projecte (demandas) → 2 Què ens cal? (r
 | Tema | Decisión |
 |---|---|
 | **Idea** | Cuenta de análisis de **letras de música urbana** (no centrada en un artista: Hoke, Delaossa, Hard GZ…): rimas multisilábicas, dobles sentidos, jerga que la gente no entiende. Más reacciones con feedback a **artistas emergentes** que envían su tema |
+| **Referente** | Izaro (@izaromur, TikTok): análisis de rap español desde la cultura y la historia (~110,7 mil seguidores, dato indexado sin fecha) |
+| **Diferenciador** | "No t'explico el rap: t'ensenyo com s'escriu": desmontar la barra como rapper (sílabas, rima, doble sentido) y escribir una propia con la misma técnica. DAFO: `01-validacion-idea/dafo.md` |
 | **Storytelling** | Bucle de 4 pasos en cada vídeo: apuestas → gran pregunta → giro → reenganche. Plantillas: `06-produccion/guiones/plantillas-bucle.md` |
 | **Cuenta** | **Nueva**, creada para el proyecto (no Santo Kenvo) |
 | **Plataformas** | **TikTok + Instagram Reels**, mismo vídeo vertical en las dos |
