@@ -9,10 +9,11 @@
 - **On és diferent el meu compte:** l'Izaro explica el rap des de **la cultura i la història**. Jo l'explico des de **dins, com a músic que escriu**.
 
 ## Diferenciador
-**"No t'explico el rap: t'ensenyo com s'escriu."**
-1. **Desmunto la barra com un rapper:** síl·labes, rima multisil·làbica, doble sentit, mètrica. Les rimes pintades de colors a la pantalla.
-2. **I després la faig jo:** al final escric una barra pròpia amb la mateixa tècnica. Així demostro que en sé i tanco amb un repte: "Fes-ne una tu als comentaris".
-3. **La comunitat hi participa:** cada divendres reacciono als temes d'artistes emergents que m'envien, amb un feedback honest.
+**"El rap, explicat per algú que en fa."** Faig música urbana: ho explico des de dins.
+- **Contingut variat:** barres difícils, com es fa una rima (AABB, ABAB, ABBA, multisil·làbica, interna), significat de cançons, història d'artistes, notícies del rap i reaccions a artistes emergents.
+- **La mirada de músic a cada vídeo:** fins i tot en una notícia, un moment de "mira com està fet".
+- **Firma visual fixa:** sempre el mateix codi de colors; la barra al principi sense explicar i al final "llegeix-la un altre cop"; nota de dificultat de l'1 al 5.
+- **Comunitat:** cada divendres, feedback honest als temes que m'envien.
 
 ## DAFO
 

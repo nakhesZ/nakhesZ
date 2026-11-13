@@ -78,22 +78,26 @@ Etapa 0 Benvinguda → 1 Conèixer el projecte (demandas) → 2 Què ens cal? (r
 
 | Tema | Decisión |
 |---|---|
-| **Idea** | Cuenta de análisis de **letras de música urbana** (no centrada en un artista: Hoke, Delaossa, Hard GZ…): rimas multisilábicas, dobles sentidos, jerga que la gente no entiende. Más reacciones con feedback a **artistas emergentes** que envían su tema |
+| **Idea** | Cuenta de **rap y música urbana** con todo lo que haga falta: barras difíciles explicadas (Hoke…), cómo se hace una rima (pareada AABB, cruzada ABAB, abrazada ABBA, multisilábica, interna) con ejemplos, significado de canciones (Delaossa…), historia e inicios de artistas, noticias del rap y reacciones a temas de artistas emergentes. **No** es una "escuela del rap" |
 | **Referente** | Izaro (@izaromur, TikTok): análisis de rap español desde la cultura y la historia (~110,7 mil seguidores, dato indexado sin fecha) |
-| **Diferenciador** | "No t'explico el rap: t'ensenyo com s'escriu": desmontar la barra como rapper (sílabas, rima, doble sentido) y escribir una propia con la misma técnica. DAFO: `01-validacion-idea/dafo.md` |
+| **Diferenciador** | **"El rap, explicado por alguien que lo hace."** La perspectiva de músico en cada vídeo (un momento de "cómo está hecho", aunque sea una noticia) + firma visual fija (código de colores, "léela otra vez", nota de dificultad 1–5) + comunidad (los viernes, artistas emergentes). DAFO: `01-validacion-idea/dafo.md` |
 | **Storytelling** | Bucle de 4 pasos en cada vídeo: apuestas → gran pregunta → giro → reenganche. Plantillas: `06-produccion/guiones/plantillas-bucle.md` |
 | **Cuenta** | **Nueva**, creada para el proyecto (no Santo Kenvo) |
 | **Plataformas** | **TikTok + Instagram Reels**, mismo vídeo vertical en las dos |
 | **Tipo de cuenta** | Personal o de creador, **no de empresa** (ver apartado legal) |
 | **Formato** | **Individual** |
-| **Frecuencia** | **3 vídeos por semana × 7 semanas = 21 vídeos** |
+| **Frecuencia** | Propuesta: **5 vídeos/semana × 7 = 35** (datos de Buffer: 2–5/semana en TikTok y 3–5 en Instagram). **Pendiente de confirmar** en la taula; mínimo 3 |
 
-### Las 3 secciones semanales
-| Día | Sección | Qué es | Para qué |
-|---|---|---|---|
-| Lunes | **Barra explicada** | Una línea concreta: doble sentido, referencia, rima | Aportar valor |
-| Miércoles | **Darrere del tema** | Flow, producción, sample o estructura de una canción | Construir marca |
-| Viernes | **Reacciono al teu tema** | Reacción a temas que envían los seguidores | Crear comunidad (clave para el RA2) |
+### Pilares de contenido y semana tipo (propuesta, 11/2026)
+| Día | Pilar | Ejemplo |
+|---|---|---|
+| Lunes | **Barra difícil explicada** | Una barra de Hoke que casi nadie entiende |
+| Martes | **Cómo se hace** | Rima abrazada (ABBA) con un ejemplo real y otro mío |
+| Miércoles | **Significado de una canción** o **historia de un artista** (alternando) | De qué habla un tema de Delaossa / los inicios de un artista |
+| Jueves | **Noticia del rap** | La noticia + el detalle de músico que nadie cuenta |
+| Viernes | **Reacciono a tu tema** | Artistas emergentes: una cosa que funciona y una que mejorar (comunidad, RA2) |
+
+Si la frecuencia queda en 3: lunes, miércoles y viernes, rotando los pilares.
 
 ### Pendiente de decidir
 - [ ] **Nombre de la cuenta** (y comprobar que el usuario está libre en TikTok e Instagram)
