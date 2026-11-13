@@ -1,6 +1,6 @@
 # 07 · KPI (RA3) — del 25/01 al 14/03/2027
 
-Por cada vídeo, rellenar en `03-calendario/calendari_21_videos.csv`: visualizaciones, me gusta, comentarios, compartidos, guardados y seguidores nuevos (los ves en las estadísticas de TikTok e Instagram).
+Por cada vídeo, rellenar en `03-calendario/calendari_continguts.csv`: visualizaciones, me gusta, comentarios, compartidos, guardados y seguidores nuevos (los ves en las estadísticas de TikTok e Instagram).
 
 Cada domingo, 3 líneas aquí:
 1. Qué vídeo funcionó mejor y por qué creo que fue.
