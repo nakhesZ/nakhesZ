@@ -15,4 +15,5 @@ Ficha de validación (catalán): https://claude.ai/artifact/TeJFMT7UvY9yNvnb9ygx
 4. El enunciado pide un "informe atractiu" y una "presentació visual" (PDF, máx. 10 diapositivas). ¿Son el mismo documento o son dos entregas?
 
 ## Respuestas de la taula
-_(rellenar el 13/11)_
+- **Diferenciación (13/11):** la diferenciación tiene que ser centrarse en **un género musical concreto** (no "rap y música urbana" en general). Género: _pendiente de decidir_.
+- Resto de respuestas (IA, fragmentos, frecuencia, informe vs. presentación): _pendiente_
