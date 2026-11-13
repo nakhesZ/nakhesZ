@@ -12,6 +12,7 @@ Ficha de validación (catalán): https://claude.ai/artifact/TeJFMT7UvY9yNvnb9ygx
 1. ¿Puedo usar IA para editar los vídeos si lo explico como parte de mi flujo de trabajo? (Uno de los perfiles es Editor/a de vídeo.)
 2. ¿Usar fragmentos de canciones para analizarlas cuenta como finalidad docente en este proyecto?
 3. ¿Hay una frecuencia mínima de publicación? Propongo 5/semana (o 3 como mínimo).
+4. El enunciado pide un "informe atractiu" y una "presentació visual" (PDF, máx. 10 diapositivas). ¿Son el mismo documento o son dos entregas?
 
 ## Respuestas de la taula
 _(rellenar el 13/11)_
