@@ -9,11 +9,9 @@
 - **On és diferent el meu compte:** l'Izaro explica el rap des de **la cultura i la història**. Jo l'explico des de **dins, com a músic que escriu**.
 
 ## Diferenciador
-**"El rap, explicat per algú que en fa."** Faig música urbana: ho explico des de dins.
-- **Contingut variat:** barres difícils, com es fa una rima (AABB, ABAB, ABBA, multisil·làbica, interna), significat de cançons, història d'artistes, notícies del rap i reaccions a artistes emergents.
-- **La mirada de músic a cada vídeo:** fins i tot en una notícia, un moment de "mira com està fet".
-- **Firma visual fixa:** sempre el mateix codi de colors; la barra al principi sense explicar i al final "llegeix-la un altre cop"; nota de dificultat de l'1 al 5.
-- **Comunitat:** cada divendres, feedback honest als temes que m'envien.
+1. **Un sol gènere: el rap espanyol.** És un nínxol més concret que "música urbana" en general.
+2. **No només analitzo les barres: ensenyo com es creen.** Explico pas a pas com es construeix una rima o un doble sentit, perquè qualsevol ho pugui fer.
+3. **Firma visual:** les rimes s'encenen a la pantalla quan sonen.
 
 ## DAFO
 
