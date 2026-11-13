@@ -6,7 +6,7 @@ Ficha de validación (catalán): https://claude.ai/artifact/TeJFMT7UvY9yNvnb9ygx
 - [ ] Nombre de la cuenta (y comprobar que el usuario está libre en TikTok e Instagram)
 - [ ] Idioma de los vídeos (castellano o catalán)
 - [ ] Frecuencia: 3 o 5 vídeos/semana (ver datos de Buffer en la conversación; pendiente confirmar en la taula)
-- [ ] Si son 5: formato del martes y del jueves
+- [x] Si son 5: martes = cómo se hace (técnica de rima), jueves = noticia del rap
 
 ## Preguntas para la taula d'orientació
 1. ¿Puedo usar IA para editar los vídeos si lo explico como parte de mi flujo de trabajo? (Uno de los perfiles es Editor/a de vídeo.)
