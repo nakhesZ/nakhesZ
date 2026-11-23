@@ -33,12 +33,12 @@ Pilar: **Barra difícil explicada / Cómo se hace** (monorrima). Castellano.
 | 38–50 s | "Y mira el título: 'limón y sal' es el ritual del tequila… y justo después habla de heridas. **Para mí, sal en la herida.** Es una lectura mía." | Congelar + **LO QUE OYES │ LO QUE DICE**; etiqueta "lectura mía" |
 | 50–60 s | "La prensa dice que el tema va de huir de lo que no quieres afrontar. ¿Tú cómo la entiendes? Y dime qué barra desmonto el lunes." | Medidor de dificultad; si procede, texto "Si lo necesitas: 024" |
 
-## ⚠️ Tema delicado (importante)
-La letra trata de **evasión, autorrechazo y alusiones a la muerte/suicidio**. Por eso:
-- **No citar ni mostrar** los versos más explícitos; centrarse en técnica (rimas) y en el tema general.
-- **No presentar el suicidio como solución ni como algo atractivo.** Tono serio en esta parte; **cero humor**.
-- Poner en la **descripción y comentario fijado**: *Línea 024 de atención a la conducta suicida: gratuita, confidencial, 24 h (Ministerio de Sanidad). Si hay peligro inmediato: 112.*
-- Leer las normas de TikTok e Instagram sobre contenido de suicidio y autolesión antes de publicar (no verificadas aquí).
+## Tema duro (decisión de David, 23/11/2026: sin tabúes)
+La letra habla de odio hacia uno mismo, evasión, alusiones a la muerte y al suicidio. **Se explica todo, sin esquivar los versos duros** (ver `video-delaossa-limon-y-sal-lectura-profunda.md`).
+- Se nombra con precisión lo que dice la letra; no se presenta como algo atractivo.
+- Opcional: Línea 024 (gratuita, confidencial, 24 h; Ministerio de Sanidad) en la descripción. Si hay peligro inmediato: 112.
+- Leer las normas de TikTok e Instagram sobre este contenido antes de publicar (no verificadas): puede limitarse el alcance.
+- Lo que se cuente de la vida de Delaossa debe tener fuente; explicar la letra no es decir qué le pasaba al escribirla.
 
 ## Fuentes
 - https://tastethefloor.es/delaossa-presenta-su-nuevo-album-la-madruga/
