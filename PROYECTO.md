@@ -102,9 +102,9 @@ Si la frecuencia queda en 3: lunes, miércoles y viernes, rotando los pilares.
 
 ### Pendiente de decidir
 - [ ] **Nombre de la cuenta:** elegido **@consegundas** (expresión "decir algo con segundas" = con doble intención). **Pendiente comprobar que está libre en TikTok e Instagram** (no verificado: desde la nube no se puede entrar en las apps). Alternativas si está ocupado: @doblefondo, @doblefilo, @trasfondo
-- [ ] **Idioma de los vídeos** (castellano o catalán)
+- [x] **Idioma de los vídeos:** castellano (los entregables de clase siguen en catalán). **Género:** rap español (confirmado 23/11)
 - [ ] Definición detallada del **público objetivo**
-- [ ] **Objetivos SMART** (cuenta nueva: se parte de 0 seguidores)
+- [x] **Objetivos SMART:** propuestos en `02-estrategia/objectius-smart.md` (las cifras son metas, se revisan tras la semana 2)
 - [ ] **Hoja de cálculo** con el calendario de los 21 vídeos
 - [ ] **Plan de crisis** y gestión de la reputación
 - [ ] **Bases/autorización** para los temas que envían los seguidores
