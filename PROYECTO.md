@@ -101,7 +101,7 @@ Etapa 0 Benvinguda → 1 Conèixer el projecte (demandas) → 2 Què ens cal? (r
 Si la frecuencia queda en 3: lunes, miércoles y viernes, rotando los pilares.
 
 ### Pendiente de decidir
-- [ ] **Nombre de la cuenta** (y comprobar que el usuario está libre en TikTok e Instagram)
+- [ ] **Nombre de la cuenta:** elegido **@consegundas** (expresión "decir algo con segundas" = con doble intención). **Pendiente comprobar que está libre en TikTok e Instagram** (no verificado: desde la nube no se puede entrar en las apps). Alternativas si está ocupado: @doblefondo, @doblefilo, @trasfondo
 - [ ] **Idioma de los vídeos** (castellano o catalán)
 - [ ] Definición detallada del **público objetivo**
 - [ ] **Objetivos SMART** (cuenta nueva: se parte de 0 seguidores)
