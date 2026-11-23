@@ -30,10 +30,12 @@
 - **Último álbum:** *Sordo de un pie* (09/10/2026, 16 canciones, Taste The Floor Records). Primer álbum de estudio. Invitados: Daniela Garsal ("Resaca emocional"), Sech ("Sentadilla") y Alleh ("Vamos pallá"). Bonus track "X si muero joven".
 - **Singles 2026:** "Lola", "Aire", "El bachatón de la L" (con Lola Índigo). ⚠️ Las fechas de algunos singles no coinciden entre fuentes.
 
+> **Decisión de David (23/11/2026): Morad queda fuera del proyecto** (no se analiza ni se cita como artista de los vídeos). Solo aparece como crédito en el álbum de Hoke, porque es un dato objetivo.
+
 ## Otros nombres que han salido (sin datos suficientes)
 - **Cruz Cafuné** ("Cruzzi"): Izaro analizó *Maracucho Bueno Muere Chiquito* en TikTok.
-- **Morad, Quevedo, Rels B, Yung Beef, La Pantera, Ergo Pro, Dano, Kaze:** aparecen en listas y colaboraciones, pero **no he verificado sus lanzamientos** de 2026. Pendiente.
-- ⚠️ Los rankings de oyentes mensuales no coinciden entre fuentes (p. ej. Morad frente a Rels B): no citar cifras sin contrastarlas en Spotify.
+- **Quevedo, Rels B, Yung Beef, La Pantera, Ergo Pro, Dano, Kaze:** aparecen en listas y colaboraciones, pero **no he verificado sus lanzamientos** de 2026. Pendiente.
+- ⚠️ Los rankings de oyentes mensuales no coinciden entre fuentes (p. ej. entre distintos artistas): no citar cifras sin contrastarlas en Spotify.
 
 ## Qué sirve para los vídeos (noticias del jueves)
 - Hard GZ: *LACOSTA 2.5* (18/11/2026) y gira.
